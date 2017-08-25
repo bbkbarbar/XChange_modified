@@ -1,0 +1,45 @@
+{
+  "currency_pairs": {
+    "BTC/EUR": {
+      "price_scale": 2
+    },
+    "BTC/PLN": {
+      "price_scale": 2
+    },
+    "BTC/USD": {
+      "price_scale": 2
+    },
+    "LTC/BTC": {
+      "price_scale": 8
+    },
+    "ETH/BTC": {
+      "price_scale": 8
+    },
+    "LTC/EUR": {
+      "price_scale": 2
+    },
+    "LTC/PLN": {
+      "price_scale": 2
+    },
+    "LTC/USD": {
+      "price_scale": 2
+    }
+  },
+  "currencies": {
+    "BTC": {
+      "scale": 8
+    },
+    "LTC": {
+      "scale": 8
+    },
+    "EUR": {
+      "scale": 2
+    },
+    "PLN": {
+      "scale": 2
+    },
+    "USD": {
+      "scale": 2
+    }
+  }
+}
